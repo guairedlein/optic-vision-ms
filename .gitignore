@@ -1,0 +1,71 @@
+# Node modules
+node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.*
+
+# Mac system files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Build directories
+dist/
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Ignore all .env files
+.env
+.env.*
+
+# Ignore all dist folders
+dist/
+
+# Ignore all build folders
+build/
+
+# Ignore all coverage folders
+coverage/
+
+# Ignore all .DS_Store files
+.DS_Store
+
+# Ignore all .vscode folders
+.vscode/
+
+# Ignore all .idea folders
+.idea/
